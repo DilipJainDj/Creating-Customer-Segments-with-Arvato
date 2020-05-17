@@ -1,9 +1,5 @@
 # Creating-Customer-Segments-with-Arvato
-# Flower_Image_Classifier
  By *Dilip Jain*
- 
-Flower Image Classifier, Build with Pytorch Neural Network
-
 Project for Deep Learning Section of *Machine Learning Introduction with PyTorch Nanodegree* of Udacity.
 
 ## Description 
@@ -16,6 +12,7 @@ This project uses the following software and Python libraries:
  * Matplotlib
  * Seaborn
  * Sklearn / scikit-learn
+ * K-mean Clustering
 
 ## Code File
-Open file jupyter notebook imageclassifierproject.ipynb
+Open file jupyter notebook Identify_Customer_Segments.ipynb
